@@ -36,6 +36,7 @@ This lab requires the following THA virtual machines
 5. Once you've received the email then transfer the download to your Kali VM and unzip it
 
   ```
+  mkdir /root/THA/cobalt-strike-introduction/assets
   tar zxvf cobaltstrike-trial.tgz -C /root/THA/cobalt-strike-introduction/assets
   ```
 
