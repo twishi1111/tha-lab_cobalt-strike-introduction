@@ -31,15 +31,15 @@ This lab requires the following THA virtual machines
     git clone git://github.com/madsec/tha-lab_cobalt-strike-introduction /root/THA/cobalt-strike-introduction
     ```
 
-5. In order to install CobaltStrike you'll need to enter your email address and check for the download link - you can get a free trial here: [http://www.advancedpentest.com/trial]
+4. In order to install CobaltStrike you'll need to enter your email address and check for the download link - you can get a free trial here: [http://www.advancedpentest.com/trial]
 
-6. Once you've received the email then transfer the download to your Kali VM and unzip it
+5. Once you've received the email then transfer the download to your Kali VM and unzip it
 
   ```
   tar zxvf cobaltstrike-trial.tgz -C /root/THA/cobalt-strike-introduction/assets
   ```
 
-4. Install your CobaltStrike trial
+6. Install your CobaltStrike trial
 
   ```
   service postgresql start
