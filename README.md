@@ -21,7 +21,7 @@ This lab requires the following THA virtual machines
 
 #### Setup
 
-1. Boot your Metasploitable THA VM.
+1. Boot your THA Vulnerable Client and THA Metasploitable VMs.
 
 2. Boot your THA Kali VM and login.
 
