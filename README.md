@@ -35,14 +35,14 @@ This lab requires the following THA virtual machines
 
 5. Once you've received the email then transfer the download to your Kali VM and unzip it
 
-  ```
+  ```bash
   mkdir /root/THA/cobalt-strike-introduction/assets
   tar zxvf cobaltstrike-trial.tgz -C /root/THA/cobalt-strike-introduction/assets
   ```
 
 6. Install your CobaltStrike trial
 
-  ```
+  ```bash
   service postgresql start
   service metasploit start
   service metasploit stop
