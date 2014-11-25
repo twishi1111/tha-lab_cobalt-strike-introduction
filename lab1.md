@@ -2,7 +2,7 @@
 
 1. Run CobaltStrike
 
-  ```
+  ```bash
   service postgresql start
   cd /root/THA/cobalt-strike-introduction/assets/
   ./cobaltstrike
