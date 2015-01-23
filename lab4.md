@@ -19,7 +19,7 @@ These steps will show you how to set up the Java Applet attack using the Java Me
 
 8. Click Launch
 
-9. Now, from the THA Client Victim, make sure the Java plugin is enabled in Firefox and then go to this URL:
+9. Now, from the THA Client Victim, make sure the Java plugin is enabled in Iceweasel and then go to this URL:
 
 10. http://172.16.189.5/mPlayer
 
